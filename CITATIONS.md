@@ -48,6 +48,9 @@
 
   > Daley, T., & Smith, A. D. (2013). Predicting the molecular complexity of sequencing libraries. Nature Methods, 10(4), 325–327. doi: [10.1038/nmeth.2375](https://doi.org/10.1038/nmeth.2375)
 
+  - [MTNucRatioCalculator](https://github.com/apeltzer/MTNucRatioCalculator)
+  Alex Peltzter (Unpublished)
+
 ## Software packaging/containerisation tools
 
 - [Anaconda](https://anaconda.com)
